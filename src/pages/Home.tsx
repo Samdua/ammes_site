@@ -18,7 +18,7 @@ const Home = () => {
             className="h-32 md:h-40 w-auto mx-auto mb-6 drop-shadow-2xl animate-scale-in"
           />
           <h1 className="text-4xl md:text-6xl font-bold text-primary-foreground mb-4">
-            Welcome to AMMES
+            elcome to AMMES
           </h1>
           <p className="text-xl md:text-2xl text-primary-foreground/90 max-w-3xl mx-auto">
             Association of Marine and Mechanical Engineering Students
