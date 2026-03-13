@@ -39,7 +39,7 @@ const PastQuestions = () => {
       courseTitle: "Marine Thermodynamics",
       year: "2023",
       semester: "First",
-      downloadLink: "#"
+      downloadLink: "/books/DC Motors Lecture - TORQUE AND SPEED CONTROL.pdf"
     },
     {
       id: 2,
