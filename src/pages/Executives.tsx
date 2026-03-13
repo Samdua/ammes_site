@@ -103,8 +103,8 @@ const Executives = () => {
       position: "AMMES Parliamentrary Representative",
       bio: "Serves as a link between the association and student parliament",
       image: "/images/Festus.jpeg",
-      email: "",
-      linkedin: "",
+      email: "festusselasie244@gmail.com",
+      linkedin: "https://www.linkedin.com/in/festus-kudiabor?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     },
   ];
 

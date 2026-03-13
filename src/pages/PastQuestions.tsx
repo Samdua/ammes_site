@@ -35,67 +35,89 @@ const PastQuestions = () => {
       program: "Degree",
       department: "Marine",
       level: "200",
-      courseCode: "MAE 201",
-      courseTitle: "Marine Thermodynamics",
-      year: "2023",
-      semester: "First",
-      downloadLink: "/books/DC Motors Lecture - TORQUE AND SPEED CONTROL.pdf"
+      courseCode: "BMAE 206",
+      courseTitle: "Marine Engine Systems 1 Midsem",
+      year: "2025",
+      semester: "Second",
+      downloadLink: "/books/MES1Midsem.pdf"
     },
     {
       id: 2,
       program: "Degree",
-      department: "Mechanical",
-      level: "300",
-      courseCode: "MEC 301",
+      department: "Marine",
+      level: "200",
+      courseCode: "BMAE 210",
       courseTitle: "Fluid Mechanics",
-      year: "2023",
+      year: "2025",
       semester: "Second",
-      downloadLink: "#"
+      downloadLink: "/books/ElectricalMachines2MidsSem.pdf"
     },
     {
       id: 3,
-      program: "Diploma",
+      program: "Degree",
       department: "Marine",
-      level: "100",
-      courseCode: "MAE 101",
-      courseTitle: "Introduction to Marine Engineering",
-      year: "2022",
-      semester: "First",
-      downloadLink: "#"
+      level: "200",
+      courseCode: "BSMA 202",
+      courseTitle: "Mathematics IV",
+      year: "2025",
+      semester: "Second",
+      downloadLink: "/books/Math4.pdf"
     },
     {
       id: 4,
       program: "Degree",
       department: "Marine",
-      level: "400",
-      courseCode: "MAE 401",
-      courseTitle: "Ship Propulsion Systems",
-      year: "2023",
-      semester: "First",
-      downloadLink: "#"
+      level: "200",
+      courseCode: "BMAE 204",
+      courseTitle: "Naval Architecture II",
+      year: "2025",
+      semester: "Second",
+      downloadLink: "/books/NavalArch2.pdf"
     },
     {
       id: 5,
-      program: "Diploma",
-      department: "Mechanical",
+      program: "Degree",
+      department: "Marine",
       level: "200",
-      courseCode: "MEC 201",
-      courseTitle: "Engineering Mechanics",
-      year: "2022",
+      courseCode: "BMAE 202",
+      courseTitle: "Mechanics of Machines I A",
+      year: "2025",
       semester: "Second",
-      downloadLink: "#"
+      downloadLink: "/books/Mom1.pdf"
     },
     {
       id: 6,
-      program: "Top-Up",
+      program: "Degree",
       department: "Marine",
-      level: "300",
-      courseCode: "MAE 301",
-      courseTitle: "Marine Power Plants",
-      year: "2023",
-      semester: "First",
-      downloadLink: "#"
-    }
+      level: "200",
+      courseCode: "BMAE 202",
+      courseTitle: "Mechanics of Machines I B",
+      year: "2025",
+      semester: "Second",
+      downloadLink: "/books/Mom12.pdf"
+    },
+    {
+      id: 7,
+      program: "Degree",
+      department: "Marine",
+      level: "200",
+      courseCode: "BEEE 206",
+      courseTitle: "Electrical Machines II Midsem",
+      year: "2025",
+      semester: "Second",
+      downloadLink: "/books/ElectricalMachines2MidsSem.pdf"
+    },
+    {
+      id: 8,
+      program: "Degree",
+      department: "Marine",
+      level: "200",
+      courseCode: "BEEE 206",
+      courseTitle: "Electrical Machines II Exam",
+      year: "2025",
+      semester: "Second",
+      downloadLink: "/books/ElectricalMachineExam.pdf"
+    },
   ];
 
   const filteredQuestions = questions.filter((q) => {
