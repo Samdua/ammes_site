@@ -19,8 +19,13 @@ const Gallery = () => {
     },
     {
       id: 3,
-      url: "/images/roderick_gun.jpeg",
-      title: "Marine Engineering trainee inspecting machine gun"
+      url: "/images/Diploma_29_B.jpeg",
+      title: "DME29 A on a fieldtrip to Tema Shipyard"
+    },
+    {
+      id: 4,
+      url: "/images/lesley.jpeg",
+      title: "Former organizing secretary giving a speech at the first general meeting last semester"
     },
    
    
