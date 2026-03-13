@@ -7,7 +7,7 @@ const ngrokurl = "https://daniele-skeighish-organisationally.ngrok-free.dev"
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/ammes_site/',
+  base: '/',
   server: {
     host: true,
     allowedHosts: ['.ngrok-free.app'],
