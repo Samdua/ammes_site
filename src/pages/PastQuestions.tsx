@@ -118,6 +118,149 @@ const PastQuestions = () => {
       semester: "Second",
       downloadLink: "/books/ElectricalMachineExam.pdf"
     },
+    {
+      id: 9,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "BEEE 101",
+      courseTitle: "App. Electricity I",
+      year: "2024",
+      semester: "First",
+      downloadLink: "/books/Basic_Electricity.pdf"
+    },
+     {
+      id: 10,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "UCST 103",
+      courseTitle: "Computer Studies I (EXAM)",
+      year: "2024",
+      semester: "First",
+      downloadLink: "/books/Computer_Studies_1_2024.pdf"
+    },
+    {
+      id: 11,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "UCST 103",
+      courseTitle: "Computer Studies I (EXAM)",
+      year: "2025",
+      semester: "First",
+      downloadLink: "/books/Computer_Studies_1_2025.pdf"
+    },
+     {
+      id: 12,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "BMAE 103",
+      courseTitle: "Engineering Drawing I",
+      year: "2024",
+      semester: "First",
+      downloadLink: "/books/Engineering_Drawing_1_2024.pdf"
+    },
+    {
+      id: 13,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "BMAE 103",
+      courseTitle: "Engineering Drawing I",
+      year: "2025",
+      semester: "First",
+      downloadLink: "/books/Engineering_Drawing_1_2025.pdf"
+    },   
+     {
+      id: 14,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "UFRE 103",
+      courseTitle: "French 1",
+      year: "2024",
+      semester: "First",
+      downloadLink: "/books/French_1_2024.pdf"
+    },
+    {
+      id: 15,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "UFRE 103",
+      courseTitle: "French 1",
+      year: "2024",
+      semester: "First",
+      downloadLink: "/books/French_1_2025.pdf"
+    },
+     {
+      id: 16,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "BSMA 101",
+      courseTitle: "Mathematics I (Algebra With Analysis)",
+      year: "2024",
+      semester: "First",
+      downloadLink: "/books/Mathematics_1_2024.pdf"
+    },
+     {
+      id: 17,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "BSMA 101",
+      courseTitle: "Mathematics I (Algebra With Analysis)",
+      year: "2025",
+      semester: "First",
+      downloadLink: "/books/Mathematics_1_2025.pdf"
+    },
+     {
+      id: 18,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "BMAE 105",
+      courseTitle: "Workshop Tech. I",
+      year: "2024",
+      semester: "First",
+      downloadLink: "/books/Workshop_Technology_1_2024.pdf"
+    },{
+      id: 19,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "BMAE 105",
+      courseTitle: "Workshop Tech. I",
+      year: "2025",
+      semester: "First",
+      downloadLink: "/books/Workshop_Technology_1_2025.pdf"
+    },
+     {
+      id: 20,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "BMAE 101",
+      courseTitle: "Basic Mechanics",
+      year: "2025",
+      semester: "First",
+      downloadLink: "/books/Basic_Mechanics_1_2025.pdf"
+    },
+      {
+      id: 21,
+      program: "Degree",
+      department: "Marine",
+      level: "100",
+      courseCode: "BMAE 107",
+      courseTitle: "Material Science",
+      year: "2025",
+      semester: "First",
+      downloadLink: "/books/Material_science_1_2025.pdf"
+    },
+     
   ];
 
   const filteredQuestions = questions.filter((q) => {

@@ -76,7 +76,7 @@ const Executives = () => {
       name: "Michael Adu",
       position: "Deputy Organizing Secretary",
       bio: "Supports the planning and coordination of events and activities to ensure smooth execution.",
-      image: "",
+      image: "/images/Michael_Adu.jpeg",
       email: "",
       linkedin: "",
     },{
@@ -106,6 +106,7 @@ const Executives = () => {
       email: "festusselasie244@gmail.com",
       linkedin: "https://www.linkedin.com/in/festus-kudiabor?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     },
+    
   ];
 
   return (
