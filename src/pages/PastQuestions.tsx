@@ -260,6 +260,40 @@ const PastQuestions = () => {
       semester: "First",
       downloadLink: "/books/Material_science_1_2025.pdf"
     },
+    {
+      id: 22,
+      program: "Masters",
+      department: "Marine",
+      level: "200",
+      courseCode: "BMAE 107",
+      courseTitle: "Material Science",
+      year: "2025",
+      semester: "First",
+      downloadLink: "/books/Material_science_1_2025.pdf"
+    },
+    {
+      id: 23,
+      program: "Masters",
+      department: "Marine",
+      level: "200",
+      courseCode: "BMAE 107 (book)",
+      courseTitle: "Oliver Twist",
+      year: "2025",
+      semester: "First",
+      downloadLink: "/books/Oliver_Twist.pdf"
+    },        
+  {
+      id: 24,
+      program: "Masters",
+      department: "Marine",
+      level: "200",
+      courseCode: "BMAE 107 (book)",
+      courseTitle: "Naval Architecture",
+      year: "2025",
+      semester: "First",
+      downloadLink: "/books/Naval_Architecture.pdf"
+    },        
+
      
   ];
 
